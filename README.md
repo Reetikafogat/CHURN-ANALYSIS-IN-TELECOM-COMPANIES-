@@ -7,6 +7,10 @@
 📍 I Conducted end-to-end analysis of customer churn using SQL for data extraction, cleaning, and feature engineering from a relational database.The sql queries I used to clean the data are in the file SQL QUERIES. After cleaning i loaded the data into Power Bi dashboard by connecting it to sql server.
 
 📍 Designed and developed interactive Power BI dashboards to visualize key churn KPIs such as churn rate, customer tenure, and service-based churn breakdown.
+
+![image alt](https://github.com/Reetikafogat/CHURN-ANALYSIS-IN-TELECOM-COMPANIES-/blob/c7a1964d7240079b3029e6d38fdb8115b713294a/dashboard_image.png)
+
+
 📊 Key Insights from Churn Analysis Dashboard
 ✅ 1. Overall Churn Rate
 The overall churn rate is significant, suggesting a need for immediate retention strategies.
