@@ -1,6 +1,5 @@
 📊 CHURN-ANALYSIS-IN-TELECOM-COMPANIES-
-🔍This is a data analysis/science  project that i did to analyze the churn rate in telecom companies . I have used sql, power bi  and 
-     ml .
+🔍This is a data analysis/science  project that i did to analyze the churn rate in telecom companies . I have used sql, power bi  and ml .
 
 📈📉ABOUT THE PROJECT:
 
