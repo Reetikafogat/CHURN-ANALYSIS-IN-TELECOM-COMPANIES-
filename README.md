@@ -50,4 +50,3 @@ Users paying via electronic checks churn more than those using credit cards or a
 - Logistic Regression performed best with ~85% accuracy.
 - Used GridSearchCV for hyperparameter tuning and joblib for model saving.
 
-![image alt](https://github.com/Reetikafogat/CHURN-ANALYSIS-IN-TELECOM-COMPANIES-/blob/c7a1964d7240079b3029e6d38fdb8115b713294a/dashboard_image.png)
